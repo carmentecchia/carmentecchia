@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Carmen Tecchia</h1>
 <h3 align="center">A Junior Java Back-ed developer from Italy</h3>
 
-- 📚 I’m currently studying in **Develhope**
+- 📚 I’m currently doing an internship in **Endow**
 
-- 🌱 I’m currently learning **Java, SQL, SpringBoot**
+- 🌱 I’ve studied **Java, SQL, SpringBoot** in **Develhope**
 
 - 📫 How to reach me **carmentecchia@gmail.com**
 
